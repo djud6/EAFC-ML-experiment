@@ -1,14 +1,3 @@
-Great — thanks for sharing the script and your current README. I see your repo only really contains:
-
-* `fc_trainer.py` (training script)
-* `player_price_history_85plus.csv` (data)
-* `predictions.json` (saved predictions, too large to share)
-
-So the README you uploaded is over-engineered for what’s actually in the repo (it assumes `src/`, notebooks, docs, etc. that aren’t there). I’ll simplify and align it with your **actual files**, while still making it clean and professional. I’ll also create a minimal `requirements.txt` you can drop in.
-
----
-
-Here’s the revised **README.md**:
 
 ````markdown
 # 🎮⚽ EA FC Player Price Predictor
