@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🎮⚽ EA FC Player Price Predictor
 
 **Predicting EA Sports FC player prices using machine learning (XGBoost)**
