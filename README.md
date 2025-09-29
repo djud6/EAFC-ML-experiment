@@ -13,15 +13,8 @@ Here’s the revised **README.md**:
 ````markdown
 # 🎮⚽ EA FC Player Price Predictor
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 **Predicting EA Sports FC player prices using machine learning (XGBoost)**
 
-</div>
 
 ---
 
