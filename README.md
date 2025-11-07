@@ -107,7 +107,3 @@ eafc-price-predictor/
 ├── requirements.txt               # Dependencies
 └── README.md                      # Project documentation
 ```
-
-
-
-👉 Do you want me to also include a **separate script for inference** (e.g., `predict.py`) so you can load `eafc_price_predictor.json` and make new predictions, or should the repo stay training-only?
